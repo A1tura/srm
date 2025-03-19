@@ -14,7 +14,7 @@ int overwrite(int t_fd, int r_fd, struct stat t_file) {
 
 int main(int argc, char *argv[]) {
   if (argc != 2) {
-    printf("Now enought arguments");
+    printf("Usage: srm [path_to_file]");
     return -1;
   }
 
