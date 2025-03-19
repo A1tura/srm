@@ -1,4 +1,4 @@
 ### Build
 ``` make build ```
 ### Install
-``` make install ```
+``` sudo make install ```
